@@ -1,0 +1,6 @@
+.secrets/
+.env
+*.mp4
+*.wav
+veo-out/
+node_modules/
